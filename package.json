@@ -1,0 +1,10 @@
+{
+  "name": "ai-driven-docs-sample",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "docsify serve docs -p 3000"
+  },
+  "devDependencies": {
+    "docsify-cli": "^4.4.4"
+  }
+}
